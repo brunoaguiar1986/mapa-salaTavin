@@ -1,3 +1,9 @@
--Instalar json-server
+**Instalar** 
 
--npx json-server db.json
+npm install json-server
+
+npm install crypto
+
+**Executar**
+
+npx json-server db.json
