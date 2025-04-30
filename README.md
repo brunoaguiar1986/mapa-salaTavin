@@ -1,2 +1,3 @@
-Instalar json-server
-npx json-server db.json
+-Instalar json-server
+
+-npx json-server db.json
