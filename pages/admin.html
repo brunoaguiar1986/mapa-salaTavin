@@ -1,0 +1,149 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Painel de administrador</title>
+    <link rel="stylesheet" href="admin.css">
+</head>
+
+<body>
+    <h2>Criar Turma</h2>
+    <form id="form-turma-post" action="">
+        <label for="id">Id Turma:</label>
+        <input type="text" id="id" name="id" required>
+
+        <br><br>
+
+        <label for="nome">Nome:</label>
+        <input type="text" id="nome" name="nome" required>
+
+        <br><br>
+
+        <label for="qtd">Qtd de Alunos:</label>
+        <input type="number" id="qtd" name="qtd" required>
+
+        <br><br>
+
+        <label>Horário almoço</label>
+        <select name="horarioAlmoco" class="select-horario"></select>
+        
+        <br><br>
+        <button>Enviar</button>
+    </form>
+    <hr>
+    <form id="form-turma-update">
+        <h2>Editar turma</h2>
+
+        <label for="id">Turma:</label>
+        <select required id="editar_selectTurma" name="id" class="select-turma"></select>
+        <br><br>
+        
+        <label>Nome da turma:</label>
+        <input type="text" id="editar_nome">
+        <br><br>
+
+        <label>Qtd Alunos</label>
+        <input type="text" id="editar_qtdAlunos">
+        <br><br>
+
+        <label>Horário de almoço:</label>
+        <select name="editar_horarioAlmoco" class="select-horario"></select>
+        <br><br>
+
+        <button>Enviar</button>
+    </form>
+    <hr>
+    <form id="form-turma-delete">
+        <h2>Excluir turma</h2>
+        <label for="id">Turma:</label>
+        <select required name="id" class="select-turma"></select>
+        <br><br>
+        <button>Enviar</button>    
+    </form>
+    <hr>
+
+    <h2>Adicionar Horários</h2>
+    <form id="form-horarios-post">
+        <label for="id">Turma:</label>
+        <select required name="id" class="select-turma"></select>
+
+        <br><br>
+
+        <label for="nome">Dia:</label>
+        <select name="dia" id="">
+            <option value="segunda-feira">Segunda-feira</option>
+            <option value="terça-feira">Terça-feira</option>
+            <option value="quarta-feira">Quarta-feira</option>
+            <option value="quinta-feira">Quinta-feira</option>
+            <option value="sexta-feira">Sexta-feira</option>
+            <option value="sábado">Sábado</option>
+        </select>
+
+        <br><br>
+
+        <label for="qtd">Qtd de Aulas:</label>
+        <input type="text" id="qtd" name="qtd-aulas" required>
+
+        <br><br>
+
+        <label for="qtd">Horário Inicio</label>
+        <select name="inicio" class="select-horario"></select>
+
+
+        <br><br>
+
+
+        <label for="qtd">Disciplina</label>
+        <input type="text" id="qtd" name="disciplina" required>
+
+        <br><br>
+
+        <label for="qtd">Professor</label>
+        <input type="text" id="qtd" name="professor" required>
+
+        <br><br>
+
+        <label for="qtd">Sala</label>
+        <select name="sala" id="select-sala">
+
+        </select>
+
+        <br><br>
+
+        <button>Enviar</button>
+    </form>
+    <hr>
+    <h2>Excluir um Horário</h2>
+    <form id="form-horarios-excluir">
+        <label for="id">Turma:</label>
+        <select required name="id" class="select-turma"></select>
+
+
+        <br><br>
+
+        <label for="nome">Dia:</label>
+        <select name="dia" id="">
+            <option value="segunda-feira">Segunda-feira</option>
+            <option value="terça-feira">Terça-feira</option>
+            <option value="quarta-feira">Quarta-feira</option>
+            <option value="quinta-feira">Quinta-feira</option>
+            <option value="sexta-feira">Sexta-feira</option>
+            <option value="sábado">Sábado</option>
+        </select>
+
+        <br><br>
+
+        <label for="qtd">Horário Inicio</label>
+        <select name="inicio" class="select-horario"></select>
+        <br><br>
+
+        <button>Enviar</button>
+    </form>
+    <hr>
+
+    <script type="module" src="../scripts/painelAdministracao.js"></script>
+</body>
+
+</html>

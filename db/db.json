@@ -1,0 +1,353 @@
+{
+  "turmas": [],
+  "salas": [
+    {
+      "id": "ofic-eletricas-1-2025",
+      "nome": "Oficina INSTALAÇÕES ELETRICAS 1 2025",
+      "horarios": {
+        "segunda-feira": [],
+        "terça-feira": [],
+        "quarta-feira": [],
+        "quinta-feira": [],
+        "sexta-feira": [],
+        "sábado": []
+      }
+    },
+    {
+      "id": "ofic-eletricas-2-2025",
+      "nome": "Oficina INSTALAÇÕES ELETRICAS 2 2025",
+      "horarios": {
+        "segunda-feira": [],
+        "terça-feira": [],
+        "quarta-feira": [],
+        "quinta-feira": [],
+        "sexta-feira": [],
+        "sábado": []
+      }
+    },
+    {
+      "id": "lab-maquinas-2025",
+      "nome": "LABORATORIO DE MÁQUINAS 2025",
+      "horarios": {
+        "segunda-feira": [],
+        "terça-feira": [],
+        "quarta-feira": [],
+        "quinta-feira": [],
+        "sexta-feira": [],
+        "sábado": []
+      }
+    },
+    {
+      "id": "lab-clp-2025-1",
+      "nome": "Laborátorio CLP 2025",
+      "horarios": {
+        "segunda-feira": [],
+        "terça-feira": [],
+        "quarta-feira": [],
+        "quinta-feira": [],
+        "sexta-feira": [],
+        "sábado": []
+      }
+    },
+    {
+      "id": "lab-sensores-clp-2025",
+      "nome": "Laboratorio Sensores CLP - 2025",
+      "horarios": {
+        "segunda-feira": [],
+        "terça-feira": [],
+        "quarta-feira": [],
+        "quinta-feira": [],
+        "sexta-feira": [],
+        "sábado": []
+      }
+    },
+    {
+      "id": "lab-eletronica",
+      "nome": "Laborátorio ELETRÔNICA",
+      "horarios": {
+        "segunda-feira": [],
+        "terça-feira": [],
+        "quarta-feira": [],
+        "quinta-feira": [],
+        "sexta-feira": [],
+        "sábado": []
+      }
+    },
+    {
+      "id": "lab-clp-2025-2",
+      "nome": "Laborátorio CLP 2025",
+      "horarios": {
+        "segunda-feira": [],
+        "terça-feira": [],
+        "quarta-feira": [],
+        "quinta-feira": [],
+        "sexta-feira": [],
+        "sábado": []
+      }
+    },
+    {
+      "id": "auditorio",
+      "nome": "AUDITORIO",
+      "horarios": {
+        "segunda-feira": [],
+        "terça-feira": [],
+        "quarta-feira": [],
+        "quinta-feira": [],
+        "sexta-feira": [],
+        "sábado": []
+      }
+    },
+    {
+      "id": "sala-aula-1",
+      "nome": "Sala de Aula 1",
+      "horarios": {
+        "segunda-feira": [],
+        "terça-feira": [],
+        "quarta-feira": [],
+        "quinta-feira": [],
+        "sexta-feira": [],
+        "sábado": []
+      }
+    },
+    {
+      "id": "sala-aula-2-2025",
+      "nome": "Sala de Aula 2 - 2025",
+      "horarios": {
+        "segunda-feira": [],
+        "terça-feira": [],
+        "quarta-feira": [],
+        "quinta-feira": [],
+        "sexta-feira": [],
+        "sábado": []
+      }
+    },
+    {
+      "id": "sala-aula-3",
+      "nome": "Sala de Aula 3",
+      "horarios": {
+        "segunda-feira": [],
+        "terça-feira": [],
+        "quarta-feira": [],
+        "quinta-feira": [],
+        "sexta-feira": [],
+        "sábado": []
+      }
+    },
+    {
+      "id": "lab-automacao-2025",
+      "nome": "Laboratório de Automação Predial - 2025",
+      "horarios": {
+        "segunda-feira": [],
+        "terça-feira": [],
+        "quarta-feira": [],
+        "quinta-feira": [],
+        "sexta-feira": [],
+        "sábado": []
+      }
+    },
+    {
+      "id": "sala-aula-5",
+      "nome": "Sala de Aula 5",
+      "horarios": {
+        "segunda-feira": [],
+        "terça-feira": [],
+        "quarta-feira": [],
+        "quinta-feira": [],
+        "sexta-feira": [],
+        "sábado": []
+      }
+    },
+    {
+      "id": "sala-aula-6",
+      "nome": "Sala de Aula 6",
+      "horarios": {
+        "segunda-feira": [],
+        "terça-feira": [],
+        "quarta-feira": [],
+        "quinta-feira": [],
+        "sexta-feira": [],
+        "sábado": []
+      }
+    },
+    {
+      "id": "lab-mecatronica-robo",
+      "nome": "Lab Mecatronica Robo",
+      "horarios": {
+        "segunda-feira": [],
+        "terça-feira": [],
+        "quarta-feira": [],
+        "quinta-feira": [],
+        "sexta-feira": [],
+        "sábado": []
+      }
+    },
+    {
+      "id": "ofic-mecanica-1",
+      "nome": "Oficina Mecânica - Setor 1",
+      "horarios": {
+        "segunda-feira": [],
+        "terça-feira": [],
+        "quarta-feira": [],
+        "quinta-feira": [],
+        "sexta-feira": [],
+        "sábado": []
+      }
+    },
+    {
+      "id": "ofic-mecanica-2",
+      "nome": "Oficina Mecânica - Setor 2",
+      "horarios": {
+        "segunda-feira": [],
+        "terça-feira": [],
+        "quarta-feira": [],
+        "quinta-feira": [],
+        "sexta-feira": [],
+        "sábado": []
+      }
+    },
+    {
+      "id": "ofic-cnc-maquinas",
+      "nome": "Oficina de CNC - Maquinas",
+      "horarios": {
+        "segunda-feira": [],
+        "terça-feira": [],
+        "quarta-feira": [],
+        "quinta-feira": [],
+        "sexta-feira": [],
+        "sábado": []
+      }
+    },
+    {
+      "id": "ofic-manutencao-2025",
+      "nome": "OFICINA MANUTENÇÃO -2025",
+      "horarios": {
+        "segunda-feira": [],
+        "terça-feira": [],
+        "quarta-feira": [],
+        "quinta-feira": [],
+        "sexta-feira": [],
+        "sábado": []
+      }
+    },
+    {
+      "id": "ofic-cnc-mecatronica",
+      "nome": "Oficina de CNC - Mecatronica",
+      "horarios": {
+        "segunda-feira": [],
+        "terça-feira": [],
+        "quarta-feira": [],
+        "quinta-feira": [],
+        "sexta-feira": [],
+        "sábado": []
+      }
+    },
+    {
+      "id": "ofic-soldagem",
+      "nome": "Oficina de Soldagem",
+      "horarios": {
+        "segunda-feira": [],
+        "terça-feira": [],
+        "quarta-feira": [],
+        "quinta-feira": [],
+        "sexta-feira": [],
+        "sábado": []
+      }
+    },
+    {
+      "id": "sala-aula-28-metrologia",
+      "nome": "Sala de Aula 28 - Metrologia",
+      "horarios": {
+        "segunda-feira": [],
+        "terça-feira": [],
+        "quarta-feira": [],
+        "quinta-feira": [],
+        "sexta-feira": [],
+        "sábado": []
+      }
+    },
+    {
+      "id": "lab-hidraulica-29-2025",
+      "nome": "Laboratorio Hidraulica- Sala 29 -2025",
+      "horarios": {
+        "segunda-feira": [],
+        "terça-feira": [],
+        "quarta-feira": [],
+        "quinta-feira": [],
+        "sexta-feira": [],
+        "sábado": []
+      }
+    },
+    {
+      "id": "lab-pneumatica-30",
+      "nome": "Laboratorio Pneumatica - Sala 30",
+      "horarios": {
+        "segunda-feira": [],
+        "terça-feira": [],
+        "quarta-feira": [],
+        "quinta-feira": [],
+        "sexta-feira": [],
+        "sábado": []
+      }
+    },
+    {
+      "id": "lab-1-piso-b-2025",
+      "nome": "LABORATÓRIO 1 - PISO SUPERIOR B 2025",
+      "horarios": {
+        "segunda-feira": [],
+        "terça-feira": [],
+        "quarta-feira": [],
+        "quinta-feira": [],
+        "sexta-feira": [],
+        "sábado": []
+      }
+    },
+    {
+      "id": "lab-programacao-1-2025",
+      "nome": "LABORATÓRIO PROGRAMAÇÃO 1 2025",
+      "horarios": {
+        "segunda-feira": [],
+        "terça-feira": [],
+        "quarta-feira": [],
+        "quinta-feira": [],
+        "sexta-feira": [],
+        "sábado": []
+      }
+    },
+    {
+      "id": "lab-redes-2025",
+      "nome": "LABORATÓRIO REDES 2025",
+      "horarios": {
+        "segunda-feira": [],
+        "terça-feira": [],
+        "quarta-feira": [],
+        "quinta-feira": [],
+        "sexta-feira": [],
+        "sábado": []
+      }
+    },
+    {
+      "id": "lab-cam-inf-2",
+      "nome": "Laboratorio CAM/INF- 2",
+      "horarios": {
+        "segunda-feira": [],
+        "terça-feira": [],
+        "quarta-feira": [],
+        "quinta-feira": [],
+        "sexta-feira": [],
+        "sábado": []
+      }
+    },
+    {
+      "id": "new-lab-sala-7-2025",
+      "nome": "NEW LAB SALA 7 2025",
+      "horarios": {
+        "segunda-feira": [],
+        "terça-feira": [],
+        "quarta-feira": [],
+        "quinta-feira": [],
+        "sexta-feira": [],
+        "sábado": []
+      }
+    }
+  ]
+}
